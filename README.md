@@ -195,8 +195,7 @@ Requirements
 
 Replace "YOUR_USERNAME" with your GitHub username and "YOUR_REPOSITORY" with your repository name.
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/bshaunak13-star/DVMN-Deja-vu-memory-network
 
 2. Verify Python
 
