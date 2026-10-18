@@ -1,4 +1,4 @@
-DVMN 0.5 — Déjà Vu Memory Network
+DVMN 0.5 — Déjà Vu Memory Network by shaunak bellubbi
 
 A Research Prototype for Concept-Activated Episodic Memory Retrieval
 
