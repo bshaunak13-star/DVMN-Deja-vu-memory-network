@@ -1,0 +1,68 @@
+﻿query_id,query,episode_id,episode_title,rank,relevant
+1,What did I investigate about fruit-fly vision?,1,Fly vision and neural circuits,1,1
+1,What did I investigate about fruit-fly vision?,3,Robot perception with spiking neurons,5,1
+1,What did I investigate about fruit-fly vision?,5,What is DVMN,3,1
+1,What did I investigate about fruit-fly vision?,6,Fruit-fly neural architecture,2,1
+1,What did I investigate about fruit-fly vision?,18,Poem,4,0
+2,Explain my work on fruit-fly neural circuits.,1,Fly vision and neural circuits,1,1
+2,Explain my work on fruit-fly neural circuits.,3,Robot perception with spiking neurons,3,1
+2,Explain my work on fruit-fly neural circuits.,4,Evaluating memory retrieval,4,0
+2,Explain my work on fruit-fly neural circuits.,6,Fruit-fly neural architecture,2,1
+2,Explain my work on fruit-fly neural circuits.,13,Local memory privacy,5,0
+3,What biological mechanisms did I explore for visual perception?,1,Fly vision and neural circuits,5,1
+3,What biological mechanisms did I explore for visual perception?,3,Robot perception with spiking neurons,1,1
+3,What biological mechanisms did I explore for visual perception?,5,What is DVMN,2,0
+3,What biological mechanisms did I explore for visual perception?,6,Fruit-fly neural architecture,3,1
+3,What biological mechanisms did I explore for visual perception?,18,Poem,4,0
+4,What did I investigate about insect neural architecture?,1,Fly vision and neural circuits,4,1
+4,What did I investigate about insect neural architecture?,3,Robot perception with spiking neurons,5,1
+4,What did I investigate about insect neural architecture?,5,What is DVMN,2,0
+4,What did I investigate about insect neural architecture?,6,Fruit-fly neural architecture,1,1
+4,What did I investigate about insect neural architecture?,18,Poem,3,0
+5,How might a fly process visual information?,1,Fly vision and neural circuits,1,1
+5,How might a fly process visual information?,3,Robot perception with spiking neurons,3,1
+5,How might a fly process visual information?,6,Fruit-fly neural architecture,2,1
+5,How might a fly process visual information?,8,Camera navigation system,4,1
+5,How might a fly process visual information?,19,Visual navigation,5,0
+6,What was my project about fly-inspired intelligence?,1,Fly vision and neural circuits,1,1
+6,What was my project about fly-inspired intelligence?,2,Long-term language-model memory,5,0
+6,What was my project about fly-inspired intelligence?,5,What is DVMN,2,0
+6,What was my project about fly-inspired intelligence?,6,Fruit-fly neural architecture,3,1
+6,What was my project about fly-inspired intelligence?,18,Poem,4,0
+7,What did I explore about robot perception?,3,Robot perception with spiking neurons,1,1
+7,What did I explore about robot perception?,5,What is DVMN,2,0
+7,What did I explore about robot perception?,6,Fruit-fly neural architecture,4,1
+7,What did I explore about robot perception?,8,Camera navigation system,5,1
+7,What did I explore about robot perception?,18,Poem,3,0
+8,How could spiking neurons help a robot understand its surroundings?,2,Long-term language-model memory,4,0
+8,How could spiking neurons help a robot understand its surroundings?,3,Robot perception with spiking neurons,1,1
+8,How could spiking neurons help a robot understand its surroundings?,6,Fruit-fly neural architecture,2,1
+8,How could spiking neurons help a robot understand its surroundings?,8,Camera navigation system,3,0
+8,How could spiking neurons help a robot understand its surroundings?,19,Visual navigation,5,0
+9,What did I investigate about robotic neural systems?,1,Fly vision and neural circuits,4,1
+9,What did I investigate about robotic neural systems?,3,Robot perception with spiking neurons,5,1
+9,What did I investigate about robotic neural systems?,5,What is DVMN,1,0
+9,What did I investigate about robotic neural systems?,6,Fruit-fly neural architecture,2,1
+9,What did I investigate about robotic neural systems?,18,Poem,3,0
+10,What connects biological vision and robot perception?,1,Fly vision and neural circuits,2,1
+10,What connects biological vision and robot perception?,3,Robot perception with spiking neurons,1,1
+10,What connects biological vision and robot perception?,5,What is DVMN,3,0
+10,What connects biological vision and robot perception?,6,Fruit-fly neural architecture,4,1
+10,What connects biological vision and robot perception?,7,DVMN déjà vu memory idea,5,0
+11,What is the purpose of my DVMN project?,4,Evaluating memory retrieval,4,1
+11,What is the purpose of my DVMN project?,5,What is DVMN,1,1
+11,What is the purpose of my DVMN project?,6,Fruit-fly neural architecture,5,0
+11,What is the purpose of my DVMN project?,7,DVMN déjà vu memory idea,3,1
+11,What is the purpose of my DVMN project?,20,Untitled episode,2,0
+12,Explain my Déjà Vu Memory Network idea.,2,Long-term language-model memory,3,1
+12,Explain my Déjà Vu Memory Network idea.,3,Robot perception with spiking neurons,4,0
+12,Explain my Déjà Vu Memory Network idea.,4,Evaluating memory retrieval,5,1
+12,Explain my Déjà Vu Memory Network idea.,5,What is DVMN,2,1
+12,Explain my Déjà Vu Memory Network idea.,7,DVMN déjà vu memory idea,1,1
+13,How does DVMN retrieve memories from previous discussions?,5,What is DVMN,1,0
+13,How does DVMN retrieve memories from previous discussions?,6,Fruit-fly neural architecture,4,0
+13,How does DVMN retrieve memories from previous discussions?,7,DVMN déjà vu memory idea,2,1
+13,How does DVMN retrieve memories from previous discussions?,10,Embedding-based memory search,3,1
+13,How does DVMN retrieve memories from previous discussions?,11,Concept graph,5,1
+14,What is concept-triggered memory retrieval?,4,Evaluating memory retrieval,2,0
+14,What is concept-triggered memory retrieval?,5,What is DVMN,1,0

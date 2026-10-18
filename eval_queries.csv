@@ -1,0 +1,41 @@
+query_id,query,query_type
+1,What did I investigate about fruit-fly vision?,direct
+2,Explain my work on fruit-fly neural circuits.,direct
+3,What biological mechanisms did I explore for visual perception?,paraphrase
+4,What did I investigate about insect neural architecture?,paraphrase
+5,How might a fly process visual information?,conceptual
+6,What was my project about fly-inspired intelligence?,conceptual
+7,What did I explore about robot perception?,direct
+8,How could spiking neurons help a robot understand its surroundings?,conceptual
+9,What did I investigate about robotic neural systems?,paraphrase
+10,What connects biological vision and robot perception?,cross-topic
+11,What is the purpose of my DVMN project?,direct
+12,Explain my Déjà Vu Memory Network idea.,paraphrase
+13,How does DVMN retrieve memories from previous discussions?,conceptual
+14,What is concept-triggered memory retrieval?,conceptual
+15,How can a new question activate an older memory?,conceptual
+16,What problem is DVMN intended to solve?,direct
+17,How does DVMN rank candidate memories?,conceptual
+18,What is the difference between memory storage and retrieval?,conceptual
+19,How could DVMN connect two previously discussed topics?,cross-topic
+20,What did I want to measure in my DVMN research?,direct
+21,How could fly vision research relate to spiking neural networks?,cross-topic
+22,Can biological neural circuits inspire artificial memory systems?,cross-topic
+23,How could robotic perception connect with concept-based recall?,cross-topic
+24,What is the relationship between neural circuits and memory retrieval?,cross-topic
+25,How might a biological inspiration influence an AI architecture?,cross-topic
+26,What did I investigate about local language models?,direct
+27,How does Gemma generate answers using retrieved memories?,direct
+28,What role does Ollama play in my prototype?,direct
+29,Why should retrieved memories support an AI answer?,conceptual
+30,How can I evaluate memory retrieval objectively?,direct
+31,What do precision and recall measure in my experiment?,evaluation
+32,How does the retrieval threshold affect results?,evaluation
+33,Why might a low threshold retrieve irrelevant memories?,evaluation
+34,How can I compare DVMN with keyword matching?,evaluation
+35,What does a false negative mean in memory retrieval?,evaluation
+36,How can I test retrieval with paraphrased questions?,evaluation
+37,What would count as evidence that DVMN works well?,evaluation
+38,How can I prevent unsupported claims from retrieved memories?,evaluation
+39,What is the difference between related topics and proven connections?,evaluation
+40,How can I determine whether a retrieved episode is relevant?,evaluation

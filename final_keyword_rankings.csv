@@ -1,0 +1,101 @@
+﻿query_id,query,category,rank,episode_id,episode_title,keyword_score
+Q01,What did I investigate about fruit-fly vision?,direct,1,6,Fruit-fly neural architecture,0.4375
+Q01,What did I investigate about fruit-fly vision?,direct,2,1,Fly vision and neural circuits,0.375
+Q01,What did I investigate about fruit-fly vision?,direct,3,5,What is DVMN,0.1875
+Q01,What did I investigate about fruit-fly vision?,direct,4,18,Poem,0.125
+Q01,What did I investigate about fruit-fly vision?,direct,5,8,Camera navigation system,0.0625
+Q02,Remind me about the neural circuits involved in fly vision.,paraphrase,1,1,Fly vision and neural circuits,0.55
+Q02,Remind me about the neural circuits involved in fly vision.,paraphrase,2,6,Fruit-fly neural architecture,0.35
+Q02,Remind me about the neural circuits involved in fly vision.,paraphrase,3,3,Robot perception with spiking neurons,0.1
+Q02,Remind me about the neural circuits involved in fly vision.,paraphrase,4,15,Astronomy observations,0.1
+Q02,Remind me about the neural circuits involved in fly vision.,paraphrase,5,14,Bread baking,0.1
+Q03,How does a fruit fly process visual information?,concept,1,6,Fruit-fly neural architecture,0.5625
+Q03,How does a fruit fly process visual information?,concept,2,1,Fly vision and neural circuits,0.4375
+Q03,How does a fruit fly process visual information?,concept,3,19,Visual navigation,0.1875
+Q03,How does a fruit fly process visual information?,concept,4,8,Camera navigation system,0.125
+Q03,How does a fruit fly process visual information?,concept,5,3,Robot perception with spiking neurons,0.125
+Q04,What did I explore about insect visual systems?,paraphrase,1,5,What is DVMN,0.1875
+Q04,What did I explore about insect visual systems?,paraphrase,2,19,Visual navigation,0.125
+Q04,What did I explore about insect visual systems?,paraphrase,3,18,Poem,0.125
+Q04,What did I explore about insect visual systems?,paraphrase,4,8,Camera navigation system,0.0625
+Q04,What did I explore about insect visual systems?,paraphrase,5,6,Fruit-fly neural architecture,0.0625
+Q05,What was my project about fruit-fly neural architecture?,direct,1,6,Fruit-fly neural architecture,0.666667
+Q05,What was my project about fruit-fly neural architecture?,direct,2,1,Fly vision and neural circuits,0.388889
+Q05,What was my project about fruit-fly neural architecture?,direct,3,5,What is DVMN,0.111111
+Q05,What was my project about fruit-fly neural architecture?,direct,4,3,Robot perception with spiking neurons,0.055556
+Q05,What was my project about fruit-fly neural architecture?,direct,5,18,Poem,0.055556
+Q06,How might spiking neurons help a robot perceive its environment?,concept,1,3,Robot perception with spiking neurons,0.45
+Q06,How might spiking neurons help a robot perceive its environment?,concept,2,8,Camera navigation system,0.2
+Q06,How might spiking neurons help a robot perceive its environment?,concept,3,6,Fruit-fly neural architecture,0.1
+Q06,How might spiking neurons help a robot perceive its environment?,concept,4,2,Long-term language-model memory,0.1
+Q06,How might spiking neurons help a robot perceive its environment?,concept,5,19,Visual navigation,0.1
+Q07,What connections did I explore between neuroscience and robotics?,cross_topic,1,5,What is DVMN,0.222222
+Q07,What connections did I explore between neuroscience and robotics?,cross_topic,2,1,Fly vision and neural circuits,0.166667
+Q07,What connections did I explore between neuroscience and robotics?,cross_topic,3,6,Fruit-fly neural architecture,0.111111
+Q07,What connections did I explore between neuroscience and robotics?,cross_topic,4,18,Poem,0.111111
+Q07,What connections did I explore between neuroscience and robotics?,cross_topic,5,17,DVMN history,0.111111
+Q08,What is DVMN and what is it designed to do?,direct,1,5,What is DVMN,0.4375
+Q08,What is DVMN and what is it designed to do?,direct,2,7,DVMN déjà vu memory idea,0.25
+Q08,What is DVMN and what is it designed to do?,direct,3,17,DVMN history,0.25
+Q08,What is DVMN and what is it designed to do?,direct,4,1,Fly vision and neural circuits,0.25
+Q08,What is DVMN and what is it designed to do?,direct,5,14,Bread baking,0.1875
+Q09,How does memory retrieval work in my AI prototype?,paraphrase,1,4,Evaluating memory retrieval,0.277778
+Q09,How does memory retrieval work in my AI prototype?,paraphrase,2,9,Semantic retrieval benchmark,0.222222
+Q09,How does memory retrieval work in my AI prototype?,paraphrase,3,2,Long-term language-model memory,0.222222
+Q09,How does memory retrieval work in my AI prototype?,paraphrase,4,7,DVMN déjà vu memory idea,0.166667
+Q09,How does memory retrieval work in my AI prototype?,paraphrase,5,5,What is DVMN,0.111111
+Q10,What is spreading activation in a memory network?,concept,1,5,What is DVMN,0.4375
+Q10,What is spreading activation in a memory network?,concept,2,7,DVMN déjà vu memory idea,0.3125
+Q10,What is spreading activation in a memory network?,concept,3,4,Evaluating memory retrieval,0.25
+Q10,What is spreading activation in a memory network?,concept,4,2,Long-term language-model memory,0.25
+Q10,What is spreading activation in a memory network?,concept,5,13,Local memory privacy,0.1875
+Q11,What did I work on involving local language models?,direct,1,13,Local memory privacy,0.222222
+Q11,What did I work on involving local language models?,direct,2,5,What is DVMN,0.166667
+Q11,What did I work on involving local language models?,direct,3,2,Long-term language-model memory,0.111111
+Q11,What did I work on involving local language models?,direct,4,18,Poem,0.111111
+Q11,What did I work on involving local language models?,direct,5,7,DVMN déjà vu memory idea,0.055556
+Q12,How did I connect Gemma to my memory project?,direct,1,7,DVMN déjà vu memory idea,0.222222
+Q12,How did I connect Gemma to my memory project?,direct,2,6,Fruit-fly neural architecture,0.166667
+Q12,How did I connect Gemma to my memory project?,direct,3,4,Evaluating memory retrieval,0.166667
+Q12,How did I connect Gemma to my memory project?,direct,4,2,Long-term language-model memory,0.166667
+Q12,How did I connect Gemma to my memory project?,direct,5,13,Local memory privacy,0.166667
+Q13,What is the difference between keyword matching and learned retrieval?,concept,1,5,What is DVMN,0.3
+Q13,What is the difference between keyword matching and learned retrieval?,concept,2,9,Semantic retrieval benchmark,0.2
+Q13,What is the difference between keyword matching and learned retrieval?,concept,3,4,Evaluating memory retrieval,0.2
+Q13,What is the difference between keyword matching and learned retrieval?,concept,4,1,Fly vision and neural circuits,0.15
+Q13,What is the difference between keyword matching and learned retrieval?,concept,5,20,Untitled episode,0.15
+Q14,How can an AI system retrieve a related past episode from a new idea?,concept,1,5,What is DVMN,0.230769
+Q14,How can an AI system retrieve a related past episode from a new idea?,concept,2,2,Long-term language-model memory,0.230769
+Q14,How can an AI system retrieve a related past episode from a new idea?,concept,3,7,DVMN déjà vu memory idea,0.192308
+Q14,How can an AI system retrieve a related past episode from a new idea?,concept,4,8,Camera navigation system,0.153846
+Q14,How can an AI system retrieve a related past episode from a new idea?,concept,5,4,Evaluating memory retrieval,0.153846
+Q15,What did I investigate about robotic perception?,direct,1,5,What is DVMN,0.214286
+Q15,What did I investigate about robotic perception?,direct,2,3,Robot perception with spiking neurons,0.142857
+Q15,What did I investigate about robotic perception?,direct,3,18,Poem,0.142857
+Q15,What did I investigate about robotic perception?,direct,4,6,Fruit-fly neural architecture,0.071429
+Q15,What did I investigate about robotic perception?,direct,5,17,DVMN history,0.071429
+Q16,Explain the basics of a binary search tree.,unrelated,1,10,Embedding-based memory search,0.1875
+Q16,Explain the basics of a binary search tree.,unrelated,2,7,DVMN déjà vu memory idea,0.125
+Q16,Explain the basics of a binary search tree.,unrelated,3,6,Fruit-fly neural architecture,0.125
+Q16,Explain the basics of a binary search tree.,unrelated,4,5,What is DVMN,0.125
+Q16,Explain the basics of a binary search tree.,unrelated,5,4,Evaluating memory retrieval,0.125
+Q17,How do I make a chocolate cake?,unrelated,1,6,Fruit-fly neural architecture,0.214286
+Q17,How do I make a chocolate cake?,unrelated,2,5,What is DVMN,0.142857
+Q17,How do I make a chocolate cake?,unrelated,3,18,Poem,0.142857
+Q17,How do I make a chocolate cake?,unrelated,4,9,Semantic retrieval benchmark,0.071429
+Q17,How do I make a chocolate cake?,unrelated,5,8,Camera navigation system,0.071429
+Q18,What causes the seasons on Earth?,unrelated,1,5,What is DVMN,0.25
+Q18,What causes the seasons on Earth?,unrelated,2,4,Evaluating memory retrieval,0.166667
+Q18,What causes the seasons on Earth?,unrelated,3,13,Local memory privacy,0.166667
+Q18,What causes the seasons on Earth?,unrelated,4,7,DVMN déjà vu memory idea,0.083333
+Q18,What causes the seasons on Earth?,unrelated,5,6,Fruit-fly neural architecture,0.083333
+Q19,Explain the working principle of a hydraulic press.,unrelated,1,7,DVMN déjà vu memory idea,0.125
+Q19,Explain the working principle of a hydraulic press.,unrelated,2,6,Fruit-fly neural architecture,0.125
+Q19,Explain the working principle of a hydraulic press.,unrelated,3,5,What is DVMN,0.125
+Q19,Explain the working principle of a hydraulic press.,unrelated,4,4,Evaluating memory retrieval,0.125
+Q19,Explain the working principle of a hydraulic press.,unrelated,5,20,Untitled episode,0.125
+Q20,What are the main differences between AC and DC current?,unrelated,1,5,What is DVMN,0.2
+Q20,What are the main differences between AC and DC current?,unrelated,2,1,Fly vision and neural circuits,0.15
+Q20,What are the main differences between AC and DC current?,unrelated,3,7,DVMN déjà vu memory idea,0.1
+Q20,What are the main differences between AC and DC current?,unrelated,4,6,Fruit-fly neural architecture,0.1
+Q20,What are the main differences between AC and DC current?,unrelated,5,4,Evaluating memory retrieval,0.1

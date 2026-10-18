@@ -1,0 +1,44 @@
+{
+  "version": "0.5.1-final",
+  "feature_names": [
+    "lexical",
+    "concept",
+    "relation",
+    "spreading",
+    "title_hint",
+    "temporal",
+    "concept_density"
+  ],
+  "mean": [
+    0.11013941410878235,
+    0.016587496666149927,
+    0.00684931506849315,
+    0.211987006048781,
+    0.09885844748858448,
+    0.9750415835038563,
+    0.0769406392694064
+  ],
+  "scale": [
+    0.12232868943359147,
+    0.05,
+    0.058118365576976506,
+    0.3419415266352748,
+    0.16340015330431246,
+    0.05,
+    0.12914748383071356
+  ],
+  "w": [
+    2.370907248079889,
+    -1.3489163182973107,
+    -1.0927010934233878,
+    2.09042378950265,
+    1.4271958154283566,
+    -0.46457991813472466,
+    -1.595050752148711
+  ],
+  "b": 1.714547152144119,
+  "trained": true,
+  "training_examples": 73,
+  "explicit_feedback_examples": 73,
+  "training_note": "Trained scorer. If explicit_feedback_examples is low, much of the training signal is weakly supervised pseudo-labels."
+}

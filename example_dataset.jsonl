@@ -1,0 +1,5 @@
+{"title":"Visual navigation","content":"A robot uses camera frames to estimate motion and navigate a room."}
+{"title":"Episodic memory","content":"A memory system stores conversations as episodes and retrieves related concepts."}
+{"title":"Fly vision","content":"Fruit flies use visual motion cues to stabilize flight."}
+{"title":"Learning to rank","content":"A relevance model learns weights from labelled query and episode pairs."}
+{"title":"Graph activation","content":"Concepts that co-occur in past episodes form a graph used for spreading activation."}

@@ -1,0 +1,44 @@
+import csv
+from pathlib import Path
+
+queries = [
+    ("Q01", "What did I investigate about fruit-fly vision?", "direct"),
+    ("Q02", "Remind me about the neural circuits involved in fly vision.", "paraphrase"),
+    ("Q03", "How does a fruit fly process visual information?", "concept"),
+    ("Q04", "What did I explore about insect visual systems?", "paraphrase"),
+    ("Q05", "What was my project about fruit-fly neural architecture?", "direct"),
+
+    ("Q06", "How might spiking neurons help a robot perceive its environment?", "concept"),
+    ("Q07", "What connections did I explore between neuroscience and robotics?", "cross_topic"),
+    ("Q08", "What is DVMN and what is it designed to do?", "direct"),
+    ("Q09", "How does memory retrieval work in my AI prototype?", "paraphrase"),
+    ("Q10", "What is spreading activation in a memory network?", "concept"),
+
+    ("Q11", "What did I work on involving local language models?", "direct"),
+    ("Q12", "How did I connect Gemma to my memory project?", "direct"),
+    ("Q13", "What is the difference between keyword matching and learned retrieval?", "concept"),
+    ("Q14", "How can an AI system retrieve a related past episode from a new idea?", "concept"),
+    ("Q15", "What did I investigate about robotic perception?", "direct"),
+
+    ("Q16", "Explain the basics of a binary search tree.", "unrelated"),
+    ("Q17", "How do I make a chocolate cake?", "unrelated"),
+    ("Q18", "What causes the seasons on Earth?", "unrelated"),
+    ("Q19", "Explain the working principle of a hydraulic press.", "unrelated"),
+    ("Q20", "What are the main differences between AC and DC current?", "unrelated"),
+]
+
+path = Path("final_eval_queries.csv")
+if path.exists():
+    raise SystemExit(
+        "final_eval_queries.csv already exists. "
+        "Keep it safe; do not overwrite it."
+    )
+
+with path.open("w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["query_id", "query", "category"])
+    writer.writerows(queries)
+
+print(f"Created {path} with {len(queries)} queries.")
+print("These are query prompts only; no relevance labels have been assigned.")
+print("Review them and ensure they were not used to train the model.")

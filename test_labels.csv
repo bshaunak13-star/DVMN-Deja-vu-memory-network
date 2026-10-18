@@ -1,0 +1,16 @@
+query_id,query,episode_id,episode_title,rank,relevant
+9,What did I investigate about robotic neural systems?,1,Fly vision and neural circuits,4,1
+9,What did I investigate about robotic neural systems?,3,Robot perception with spiking neurons,5,1
+9,What did I investigate about robotic neural systems?,5,What is DVMN,1,0
+9,What did I investigate about robotic neural systems?,6,Fruit-fly neural architecture,2,1
+9,What did I investigate about robotic neural systems?,18,Poem,3,0
+8,How could spiking neurons help a robot understand its surroundings?,2,Long-term language-model memory,4,0
+8,How could spiking neurons help a robot understand its surroundings?,3,Robot perception with spiking neurons,1,1
+8,How could spiking neurons help a robot understand its surroundings?,6,Fruit-fly neural architecture,2,1
+8,How could spiking neurons help a robot understand its surroundings?,8,Camera navigation system,3,0
+8,How could spiking neurons help a robot understand its surroundings?,19,Visual navigation,5,0
+13,How does DVMN retrieve memories from previous discussions?,5,What is DVMN,1,0
+13,How does DVMN retrieve memories from previous discussions?,6,Fruit-fly neural architecture,4,0
+13,How does DVMN retrieve memories from previous discussions?,7,DVMN déjà vu memory idea,2,1
+13,How does DVMN retrieve memories from previous discussions?,10,Embedding-based memory search,3,1
+13,How does DVMN retrieve memories from previous discussions?,11,Concept graph,5,1
